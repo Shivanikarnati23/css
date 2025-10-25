@@ -1,0 +1,17 @@
+li {
+    color: aqua;
+}
+
+.demo1 {
+    color: blueviolet;
+}
+
+p:hover {
+    color: blue;
+}
+
+p::first-line,
+p::first-letter {
+    color: navy;
+    font-size: 32px;
+}
