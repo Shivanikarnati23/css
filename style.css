@@ -10,8 +10,12 @@ p:hover {
     color: blue;
 }
 
-p::first-line,
-p::first-letter {
+p::first-line {
     color: navy;
+    font-size: 32px;
+}
+
+p::first-letter {
+    color: rgb(198, 14, 57);
     font-size: 32px;
 }
